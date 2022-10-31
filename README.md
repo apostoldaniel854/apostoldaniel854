@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Daniel Apostol, 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Daniel, a Computer Science Student at University of Bucharest and competitive programming enjoyer.
+- 🌱 I’m currently learning more about React and Django in my free time.
+- 💞️ I’m looking to collaborate on interesting projects that would help me get more experience with new technologies.
 - 📫 You can reach me at **apostoldaniel.work@gmail.com**.
 
 <!---
