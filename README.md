@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel, a Computer Science Student at University of Bucharest and competitive programming enjoyer.
+- 👋 Hi, I’m Daniel, a CS Masters student at ETH Zurich. 
 - 💞️ I’m looking to collaborate on interesting projects that would help me get more experience with new technologies.
 - 📫 You can reach me at **apostoldaniel.work@gmail.com**.
 
